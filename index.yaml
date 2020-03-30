@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab03:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-03-30T17:55:41.81065+09:00
+    description: A Helm chart for Kubernetes
+    digest: 418c41698a513471e7de263d60b6f765ae0b7ae4b6c8f2c58be13968823445bf
+    name: eventapp-lab03
+    urls:
+    - https://maxhyeon-cloudnativesession.github.io/mycharts/eventapp-lab03-0.1.0.tgz
+    version: 0.1.0
+generated: 2020-03-30T17:55:41.806499+09:00
